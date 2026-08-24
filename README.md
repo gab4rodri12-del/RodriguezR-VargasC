@@ -1,3 +1,0 @@
-# RodriguezR-VargasC
-
-lab1
